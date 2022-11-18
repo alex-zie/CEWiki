@@ -1,0 +1,13 @@
+~~DISCUSSION~~
+====== Startseite ======
+Willkommen auf der Wiki der Fachschaft Computational Engineering! Zunächst soll sie erstmal als Informationssammelstelle für die Organisation der [[owo:owo|OWO]] dienen, aber sie kann noch beliebig erweitert werden!
+
+Das Ziel ist es, dass hierdurch Materialien und Infos auf dem schnellstmöglichen Weg gefunden werden können sollen. Ideal wäre es also, ein Design zu schaffen, bei dem die wichtigsten Dinge schnell und auf den ersten Blick zu sehen sind und nähere Details erst weiter unten oder auf weiterführenden Seiten stehen.
+
+Außerdem ist es für die Übersichtlichkeit wichtig, dass alle Artikel nach demselben Schema und Format aufgebaut sind. Dieses muss noch festgelegt werden.
+
+Auch das Design ist noch lange nicht festgelegt. Das hier benutzte [[https://www.dokuwiki.org/template:bootstrap3|Template]] kann stark personalisiert werden.
+
+<html>
+  <button>Test</button>
+</html>  

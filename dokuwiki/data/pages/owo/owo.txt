@@ -1,0 +1,18 @@
+{{ :owo-blob.png?nolink&70|}}
+====== Orientierungswoche ======
+Die Orientierung ist das jährliche Highlight unseres Studiengangs! Doch ist die Organisation nicht gut geregelt und sind die Inforationen nicht gut auffindbar und sortiert, so kann diese Schnell zur Monsteraufgabe werden.
+Abhilfe soll dieser Abschnitt verschaffen.
+
+===== A-Z =====
+  * [[Abendprogramm|Abendprogramm]]
+  * [[Campustour|Campustour]]
+  * [[Essen|Essen]]
+  * [[Kleingruppen|Kleingruppen]]
+  * [[Merchandise|Merchandise]]
+  * [[OWO-Heft|Heft]]
+  * [[Rallye|Rallye]]
+  * [[Spiele|Spiele]]
+  * [[Tucan & Moodle|Tucan & Moodle]]
+  * [[Vorträge|Vorträge]]
+  * [[Zeitplan|Zeitplan]]
+  

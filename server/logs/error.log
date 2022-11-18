@@ -1,0 +1,323 @@
+[Wed Oct 19 09:37:48.786058 2022] [mpm_winnt:notice] [pid 15340:tid 668] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 19 09:37:48.787057 2022] [mpm_winnt:notice] [pid 15340:tid 668] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Oct 19 09:37:48.787057 2022] [core:notice] [pid 15340:tid 668] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/DokuWikiStick/server'
+[Wed Oct 19 09:37:48.790057 2022] [mpm_winnt:notice] [pid 15340:tid 668] AH00418: Parent: Created child process 4768
+[Wed Oct 19 09:37:49.313057 2022] [mpm_winnt:notice] [pid 4768:tid 684] AH00354: Child: Starting 24 worker threads.
+[Wed Oct 19 09:37:49.558948 2022] [authz_core:error] [pid 4768:tid 884] [client 127.0.0.1:53023] AH01630: client denied by server configuration: C:/Users/Alexander/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Wed Oct 19 09:40:20.191490 2022] [authz_core:error] [pid 4768:tid 884] [client ::1:53045] AH01630: client denied by server configuration: C:/Users/Alexander/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Wed Oct 19 09:52:42.876738 2022] [core:warn] [pid 12612:tid 576] AH00098: pid file C:/Users/Alexander/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 19 09:52:42.916750 2022] [mpm_winnt:notice] [pid 12612:tid 576] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 19 09:52:42.916750 2022] [mpm_winnt:notice] [pid 12612:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Oct 19 09:52:42.916750 2022] [core:notice] [pid 12612:tid 576] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/DokuWikiStick/server'
+[Wed Oct 19 09:52:42.920083 2022] [mpm_winnt:notice] [pid 12612:tid 576] AH00418: Parent: Created child process 1604
+[Wed Oct 19 09:52:43.433084 2022] [mpm_winnt:notice] [pid 1604:tid 684] AH00354: Child: Starting 24 worker threads.
+[Wed Oct 19 10:09:36.543535 2022] [core:warn] [pid 1644:tid 580] AH00098: pid file C:/Users/Alexander/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 19 10:09:36.570531 2022] [mpm_winnt:notice] [pid 1644:tid 580] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 19 10:09:36.570531 2022] [mpm_winnt:notice] [pid 1644:tid 580] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Oct 19 10:09:36.570531 2022] [core:notice] [pid 1644:tid 580] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/DokuWikiStick/server'
+[Wed Oct 19 10:09:36.573504 2022] [mpm_winnt:notice] [pid 1644:tid 580] AH00418: Parent: Created child process 15080
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 15080:tid 684] AH00354: Child: Starting 24 worker threads.
+[Wed Oct 19 10:10:01.020558 2022] [authz_core:error] [pid 15080:tid 900] [client ::1:58975] AH01630: client denied by server configuration: C:/Users/Alexander/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Wed Oct 19 10:15:34.010729 2022] [mpm_winnt:notice] [pid 1644:tid 580] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 19 10:15:36.027665 2022] [mpm_winnt:notice] [pid 15080:tid 684] AH00364: Child: All worker threads have exited.
+[Wed Oct 19 10:15:36.832927 2022] [mpm_winnt:notice] [pid 1644:tid 580] AH00430: Parent: Child process 15080 exited successfully.
+[Wed Oct 19 10:15:46.066333 2022] [mpm_winnt:notice] [pid 5852:tid 732] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 19 10:15:46.066333 2022] [mpm_winnt:notice] [pid 5852:tid 732] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Oct 19 10:15:46.066333 2022] [core:notice] [pid 5852:tid 732] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Wed Oct 19 10:15:46.069333 2022] [mpm_winnt:notice] [pid 5852:tid 732] AH00418: Parent: Created child process 20916
+[Wed Oct 19 10:15:46.636333 2022] [mpm_winnt:notice] [pid 20916:tid 680] AH00354: Child: Starting 24 worker threads.
+[Wed Oct 19 10:22:06.143618 2022] [core:warn] [pid 19752:tid 572] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 19 10:22:06.170652 2022] [mpm_winnt:notice] [pid 19752:tid 572] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 19 10:22:06.170652 2022] [mpm_winnt:notice] [pid 19752:tid 572] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Oct 19 10:22:06.170652 2022] [core:notice] [pid 19752:tid 572] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Wed Oct 19 10:22:06.173650 2022] [mpm_winnt:notice] [pid 19752:tid 572] AH00418: Parent: Created child process 3440
+[Wed Oct 19 10:22:06.692619 2022] [mpm_winnt:notice] [pid 3440:tid 684] AH00354: Child: Starting 24 worker threads.
+[Wed Oct 19 10:25:58.330963 2022] [core:warn] [pid 21120:tid 576] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 19 10:25:58.357964 2022] [mpm_winnt:notice] [pid 21120:tid 576] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 19 10:25:58.357964 2022] [mpm_winnt:notice] [pid 21120:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Oct 19 10:25:58.357964 2022] [core:notice] [pid 21120:tid 576] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Wed Oct 19 10:25:58.360970 2022] [mpm_winnt:notice] [pid 21120:tid 576] AH00418: Parent: Created child process 20248
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 20248:tid 684] AH00354: Child: Starting 24 worker threads.
+[Wed Oct 19 11:34:43.075224 2022] [mpm_winnt:notice] [pid 21120:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 19 11:34:45.084096 2022] [mpm_winnt:notice] [pid 20248:tid 684] AH00364: Child: All worker threads have exited.
+[Wed Oct 19 11:34:45.514303 2022] [mpm_winnt:notice] [pid 21120:tid 576] AH00430: Parent: Child process 20248 exited successfully.
+[Wed Oct 19 14:47:46.129085 2022] [mpm_winnt:notice] [pid 9196:tid 588] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 19 14:47:46.129085 2022] [mpm_winnt:notice] [pid 9196:tid 588] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Oct 19 14:47:46.129085 2022] [core:notice] [pid 9196:tid 588] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Wed Oct 19 14:47:46.132086 2022] [mpm_winnt:notice] [pid 9196:tid 588] AH00418: Parent: Created child process 17012
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 17012:tid 684] AH00354: Child: Starting 24 worker threads.
+[Wed Oct 19 14:50:55.051117 2022] [authz_core:error] [pid 17012:tid 816] [client ::1:55189] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Wed Oct 19 15:02:25.756272 2022] [mpm_winnt:notice] [pid 9196:tid 588] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 19 15:02:27.771219 2022] [mpm_winnt:notice] [pid 17012:tid 684] AH00364: Child: All worker threads have exited.
+[Wed Oct 19 15:02:28.617561 2022] [mpm_winnt:notice] [pid 9196:tid 588] AH00430: Parent: Child process 17012 exited successfully.
+[Wed Oct 26 20:41:45.910748 2022] [mpm_winnt:notice] [pid 23404:tid 736] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 26 20:41:45.910748 2022] [mpm_winnt:notice] [pid 23404:tid 736] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Oct 26 20:41:45.910748 2022] [core:notice] [pid 23404:tid 736] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Wed Oct 26 20:41:45.914748 2022] [mpm_winnt:notice] [pid 23404:tid 736] AH00418: Parent: Created child process 9336
+[Wed Oct 26 20:41:46.516746 2022] [mpm_winnt:notice] [pid 9336:tid 684] AH00354: Child: Starting 24 worker threads.
+[Wed Oct 26 23:21:36.453030 2022] [core:warn] [pid 2460:tid 576] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 26 23:21:36.484916 2022] [mpm_winnt:notice] [pid 2460:tid 576] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 26 23:21:36.484916 2022] [mpm_winnt:notice] [pid 2460:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Oct 26 23:21:36.484916 2022] [core:notice] [pid 2460:tid 576] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Wed Oct 26 23:21:36.494916 2022] [mpm_winnt:notice] [pid 2460:tid 576] AH00418: Parent: Created child process 18492
+[Wed Oct 26 23:21:37.018916 2022] [mpm_winnt:notice] [pid 18492:tid 684] AH00354: Child: Starting 24 worker threads.
+[Wed Oct 26 23:28:26.358020 2022] [core:warn] [pid 3584:tid 584] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 26 23:28:26.385020 2022] [mpm_winnt:notice] [pid 3584:tid 584] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 26 23:28:26.385020 2022] [mpm_winnt:notice] [pid 3584:tid 584] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Oct 26 23:28:26.385020 2022] [core:notice] [pid 3584:tid 584] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Wed Oct 26 23:28:26.387019 2022] [mpm_winnt:notice] [pid 3584:tid 584] AH00418: Parent: Created child process 2468
+[Wed Oct 26 23:28:26.914022 2022] [mpm_winnt:notice] [pid 2468:tid 684] AH00354: Child: Starting 24 worker threads.
+[Wed Oct 26 23:33:43.769299 2022] [core:warn] [pid 23752:tid 584] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 26 23:33:43.796328 2022] [mpm_winnt:notice] [pid 23752:tid 584] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 26 23:33:43.796328 2022] [mpm_winnt:notice] [pid 23752:tid 584] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Oct 26 23:33:43.796328 2022] [core:notice] [pid 23752:tid 584] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Wed Oct 26 23:33:43.798300 2022] [mpm_winnt:notice] [pid 23752:tid 584] AH00418: Parent: Created child process 11008
+[Wed Oct 26 23:33:44.320434 2022] [mpm_winnt:notice] [pid 11008:tid 688] AH00354: Child: Starting 24 worker threads.
+[Wed Oct 26 23:36:25.405236 2022] [core:warn] [pid 23976:tid 596] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 26 23:36:25.431755 2022] [mpm_winnt:notice] [pid 23976:tid 596] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 26 23:36:25.431755 2022] [mpm_winnt:notice] [pid 23976:tid 596] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Oct 26 23:36:25.431755 2022] [core:notice] [pid 23976:tid 596] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Wed Oct 26 23:36:25.434755 2022] [mpm_winnt:notice] [pid 23976:tid 596] AH00418: Parent: Created child process 18024
+[Wed Oct 26 23:36:26.071947 2022] [mpm_winnt:notice] [pid 18024:tid 684] AH00354: Child: Starting 24 worker threads.
+[Wed Oct 26 23:36:59.242936 2022] [core:warn] [pid 9180:tid 576] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 26 23:36:59.268935 2022] [mpm_winnt:notice] [pid 9180:tid 576] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 26 23:36:59.268935 2022] [mpm_winnt:notice] [pid 9180:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Oct 26 23:36:59.268935 2022] [core:notice] [pid 9180:tid 576] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Wed Oct 26 23:36:59.270935 2022] [mpm_winnt:notice] [pid 9180:tid 576] AH00418: Parent: Created child process 10580
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 10580:tid 696] AH00354: Child: Starting 24 worker threads.
+[Wed Oct 26 23:41:33.754994 2022] [mpm_winnt:notice] [pid 9180:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 26 23:41:35.777385 2022] [mpm_winnt:notice] [pid 10580:tid 696] AH00364: Child: All worker threads have exited.
+[Wed Oct 26 23:41:36.297854 2022] [mpm_winnt:notice] [pid 9180:tid 576] AH00430: Parent: Child process 10580 exited successfully.
+[Thu Oct 27 22:18:46.979528 2022] [mpm_winnt:notice] [pid 22280:tid 668] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Thu Oct 27 22:18:46.979528 2022] [mpm_winnt:notice] [pid 22280:tid 668] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Thu Oct 27 22:18:46.979528 2022] [core:notice] [pid 22280:tid 668] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Thu Oct 27 22:18:46.981524 2022] [mpm_winnt:notice] [pid 22280:tid 668] AH00418: Parent: Created child process 10380
+[Thu Oct 27 22:18:47.504283 2022] [mpm_winnt:notice] [pid 10380:tid 684] AH00354: Child: Starting 24 worker threads.
+[Sun Oct 30 21:37:21.259750 2022] [core:warn] [pid 9580:tid 596] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 30 21:37:21.289243 2022] [mpm_winnt:notice] [pid 9580:tid 596] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sun Oct 30 21:37:21.289243 2022] [mpm_winnt:notice] [pid 9580:tid 596] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sun Oct 30 21:37:21.289243 2022] [core:notice] [pid 9580:tid 596] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Sun Oct 30 21:37:21.292244 2022] [mpm_winnt:notice] [pid 9580:tid 596] AH00418: Parent: Created child process 11096
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 11096:tid 684] AH00354: Child: Starting 24 worker threads.
+[Sun Oct 30 21:38:28.549499 2022] [mpm_winnt:notice] [pid 9580:tid 596] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 30 21:38:30.567485 2022] [mpm_winnt:notice] [pid 11096:tid 684] AH00364: Child: All worker threads have exited.
+[Sun Oct 30 21:38:31.090548 2022] [mpm_winnt:notice] [pid 9580:tid 596] AH00430: Parent: Child process 11096 exited successfully.
+[Sun Oct 30 21:38:31.821768 2022] [mpm_winnt:notice] [pid 6504:tid 668] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sun Oct 30 21:38:31.822767 2022] [mpm_winnt:notice] [pid 6504:tid 668] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sun Oct 30 21:38:31.822767 2022] [core:notice] [pid 6504:tid 668] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Sun Oct 30 21:38:31.824769 2022] [mpm_winnt:notice] [pid 6504:tid 668] AH00418: Parent: Created child process 1736
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 1736:tid 692] AH00354: Child: Starting 24 worker threads.
+[Sun Oct 30 21:38:38.835828 2022] [mpm_winnt:notice] [pid 6504:tid 668] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 30 21:38:40.845879 2022] [mpm_winnt:notice] [pid 1736:tid 692] AH00364: Child: All worker threads have exited.
+[Sun Oct 30 21:38:41.226063 2022] [mpm_winnt:notice] [pid 6504:tid 668] AH00430: Parent: Child process 1736 exited successfully.
+[Tue Nov 01 20:57:06.897233 2022] [mpm_winnt:notice] [pid 8348:tid 540] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Tue Nov 01 20:57:06.897233 2022] [mpm_winnt:notice] [pid 8348:tid 540] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Tue Nov 01 20:57:06.897233 2022] [core:notice] [pid 8348:tid 540] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Tue Nov 01 20:57:06.899235 2022] [mpm_winnt:notice] [pid 8348:tid 540] AH00418: Parent: Created child process 16940
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 16940:tid 684] AH00354: Child: Starting 24 worker threads.
+[Tue Nov 01 21:10:23.124853 2022] [authz_core:error] [pid 16940:tid 876] [client ::1:63975] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Tue Nov 01 21:20:11.036988 2022] [mpm_winnt:notice] [pid 8348:tid 540] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 01 21:20:13.051851 2022] [mpm_winnt:notice] [pid 16940:tid 684] AH00364: Child: All worker threads have exited.
+[Tue Nov 01 21:20:13.618687 2022] [mpm_winnt:notice] [pid 8348:tid 540] AH00430: Parent: Child process 16940 exited successfully.
+[Tue Nov 01 21:20:18.208097 2022] [mpm_winnt:notice] [pid 1216:tid 676] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Tue Nov 01 21:20:18.208097 2022] [mpm_winnt:notice] [pid 1216:tid 676] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Tue Nov 01 21:20:18.208097 2022] [core:notice] [pid 1216:tid 676] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Tue Nov 01 21:20:18.211096 2022] [mpm_winnt:notice] [pid 1216:tid 676] AH00418: Parent: Created child process 9064
+[Tue Nov 01 21:20:18.744096 2022] [mpm_winnt:notice] [pid 9064:tid 684] AH00354: Child: Starting 24 worker threads.
+[Tue Nov 01 21:22:11.374465 2022] [authz_core:error] [pid 9064:tid 944] [client ::1:65169] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Tue Nov 01 21:28:59.601991 2022] [core:warn] [pid 18292:tid 576] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 01 21:28:59.629392 2022] [mpm_winnt:notice] [pid 18292:tid 576] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Tue Nov 01 21:28:59.629392 2022] [mpm_winnt:notice] [pid 18292:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Tue Nov 01 21:28:59.629392 2022] [core:notice] [pid 18292:tid 576] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Tue Nov 01 21:28:59.632392 2022] [mpm_winnt:notice] [pid 18292:tid 576] AH00418: Parent: Created child process 9968
+[Tue Nov 01 21:29:00.170392 2022] [mpm_winnt:notice] [pid 9968:tid 696] AH00354: Child: Starting 24 worker threads.
+[Tue Nov 01 21:43:23.207008 2022] [core:warn] [pid 17096:tid 576] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 01 21:43:23.234008 2022] [mpm_winnt:notice] [pid 17096:tid 576] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Tue Nov 01 21:43:23.234008 2022] [mpm_winnt:notice] [pid 17096:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Tue Nov 01 21:43:23.234008 2022] [core:notice] [pid 17096:tid 576] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Tue Nov 01 21:43:23.236978 2022] [mpm_winnt:notice] [pid 17096:tid 576] AH00418: Parent: Created child process 16428
+[Tue Nov 01 21:43:23.781160 2022] [mpm_winnt:notice] [pid 16428:tid 684] AH00354: Child: Starting 24 worker threads.
+[Tue Nov 01 21:43:30.670725 2022] [authz_core:error] [pid 16428:tid 876] [client ::1:56052] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Tue Nov 01 22:04:50.238258 2022] [core:warn] [pid 16116:tid 576] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 01 22:04:50.266260 2022] [mpm_winnt:notice] [pid 16116:tid 576] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Tue Nov 01 22:04:50.266260 2022] [mpm_winnt:notice] [pid 16116:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Tue Nov 01 22:04:50.266260 2022] [core:notice] [pid 16116:tid 576] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Tue Nov 01 22:04:50.269260 2022] [mpm_winnt:notice] [pid 16116:tid 576] AH00418: Parent: Created child process 14264
+[Tue Nov 01 22:04:50.784405 2022] [mpm_winnt:notice] [pid 14264:tid 684] AH00354: Child: Starting 24 worker threads.
+[Tue Nov 01 22:10:08.208485 2022] [authz_core:error] [pid 14264:tid 864] [client ::1:56507] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Tue Nov 01 22:19:05.424931 2022] [core:warn] [pid 17600:tid 576] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 01 22:19:05.452930 2022] [mpm_winnt:notice] [pid 17600:tid 576] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Tue Nov 01 22:19:05.452930 2022] [mpm_winnt:notice] [pid 17600:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Tue Nov 01 22:19:05.452930 2022] [core:notice] [pid 17600:tid 576] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Tue Nov 01 22:19:05.454930 2022] [mpm_winnt:notice] [pid 17600:tid 576] AH00418: Parent: Created child process 18372
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 18372:tid 684] AH00354: Child: Starting 24 worker threads.
+[Tue Nov 01 22:19:39.588066 2022] [authz_core:error] [pid 18372:tid 876] [client ::1:56626] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=owo:spiele&do=admin
+[Tue Nov 01 22:54:00.840207 2022] [mpm_winnt:notice] [pid 17600:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 01 22:54:02.865544 2022] [mpm_winnt:notice] [pid 18372:tid 684] AH00364: Child: All worker threads have exited.
+[Tue Nov 01 22:54:03.295709 2022] [mpm_winnt:notice] [pid 17600:tid 576] AH00430: Parent: Child process 18372 exited successfully.
+[Sat Nov 05 09:44:16.416339 2022] [mpm_winnt:notice] [pid 8908:tid 720] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sat Nov 05 09:44:16.416339 2022] [mpm_winnt:notice] [pid 8908:tid 720] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sat Nov 05 09:44:16.416339 2022] [core:notice] [pid 8908:tid 720] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Sat Nov 05 09:44:16.419338 2022] [mpm_winnt:notice] [pid 8908:tid 720] AH00418: Parent: Created child process 2052
+[Sat Nov 05 09:44:17.025338 2022] [mpm_winnt:notice] [pid 2052:tid 744] AH00354: Child: Starting 24 worker threads.
+[Sat Nov 05 09:45:04.974526 2022] [authz_core:error] [pid 2052:tid 920] [client ::1:55362] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Sat Nov 05 10:03:53.277008 2022] [core:warn] [pid 18640:tid 580] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Nov 05 10:03:53.305009 2022] [mpm_winnt:notice] [pid 18640:tid 580] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sat Nov 05 10:03:53.305009 2022] [mpm_winnt:notice] [pid 18640:tid 580] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sat Nov 05 10:03:53.305009 2022] [core:notice] [pid 18640:tid 580] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Sat Nov 05 10:03:53.307980 2022] [mpm_winnt:notice] [pid 18640:tid 580] AH00418: Parent: Created child process 17756
+[Sat Nov 05 10:03:53.814018 2022] [mpm_winnt:notice] [pid 17756:tid 684] AH00354: Child: Starting 24 worker threads.
+[Sat Nov 05 10:07:22.062851 2022] [core:warn] [pid 11724:tid 584] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Nov 05 10:07:22.090852 2022] [mpm_winnt:notice] [pid 11724:tid 584] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sat Nov 05 10:07:22.090852 2022] [mpm_winnt:notice] [pid 11724:tid 584] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sat Nov 05 10:07:22.090852 2022] [core:notice] [pid 11724:tid 584] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Sat Nov 05 10:07:22.093824 2022] [mpm_winnt:notice] [pid 11724:tid 584] AH00418: Parent: Created child process 10748
+[Sat Nov 05 10:07:22.608444 2022] [mpm_winnt:notice] [pid 10748:tid 684] AH00354: Child: Starting 24 worker threads.
+[Sat Nov 05 10:15:12.017010 2022] [core:warn] [pid 8500:tid 576] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Nov 05 10:15:12.044009 2022] [mpm_winnt:notice] [pid 8500:tid 576] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sat Nov 05 10:15:12.044009 2022] [mpm_winnt:notice] [pid 8500:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sat Nov 05 10:15:12.044009 2022] [core:notice] [pid 8500:tid 576] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Sat Nov 05 10:15:12.047012 2022] [mpm_winnt:notice] [pid 8500:tid 576] AH00418: Parent: Created child process 9928
+[Sat Nov 05 10:15:12.556990 2022] [mpm_winnt:notice] [pid 9928:tid 684] AH00354: Child: Starting 24 worker threads.
+[Sat Nov 05 10:15:37.887724 2022] [core:warn] [pid 20288:tid 576] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Nov 05 10:15:37.913724 2022] [mpm_winnt:notice] [pid 20288:tid 576] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sat Nov 05 10:15:37.913724 2022] [mpm_winnt:notice] [pid 20288:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sat Nov 05 10:15:37.913724 2022] [core:notice] [pid 20288:tid 576] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Sat Nov 05 10:15:37.916697 2022] [mpm_winnt:notice] [pid 20288:tid 576] AH00418: Parent: Created child process 12052
+[Sat Nov 05 10:15:38.444734 2022] [mpm_winnt:notice] [pid 12052:tid 684] AH00354: Child: Starting 24 worker threads.
+[Sat Nov 05 10:22:04.290164 2022] [core:warn] [pid 19388:tid 576] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Nov 05 10:22:04.317164 2022] [mpm_winnt:notice] [pid 19388:tid 576] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sat Nov 05 10:22:04.317164 2022] [mpm_winnt:notice] [pid 19388:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sat Nov 05 10:22:04.317164 2022] [core:notice] [pid 19388:tid 576] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Sat Nov 05 10:22:04.319165 2022] [mpm_winnt:notice] [pid 19388:tid 576] AH00418: Parent: Created child process 15132
+[Sat Nov 05 10:22:04.837172 2022] [mpm_winnt:notice] [pid 15132:tid 684] AH00354: Child: Starting 24 worker threads.
+[Sat Nov 05 10:29:48.477739 2022] [core:warn] [pid 5404:tid 572] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Nov 05 10:29:48.505769 2022] [mpm_winnt:notice] [pid 5404:tid 572] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sat Nov 05 10:29:48.505769 2022] [mpm_winnt:notice] [pid 5404:tid 572] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sat Nov 05 10:29:48.505769 2022] [core:notice] [pid 5404:tid 572] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Sat Nov 05 10:29:48.507775 2022] [mpm_winnt:notice] [pid 5404:tid 572] AH00418: Parent: Created child process 10008
+[Sat Nov 05 10:29:49.025183 2022] [mpm_winnt:notice] [pid 10008:tid 684] AH00354: Child: Starting 24 worker threads.
+[Sat Nov 05 10:33:32.256407 2022] [core:warn] [pid 4804:tid 584] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Nov 05 10:33:32.301405 2022] [mpm_winnt:notice] [pid 4804:tid 584] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sat Nov 05 10:33:32.301405 2022] [mpm_winnt:notice] [pid 4804:tid 584] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sat Nov 05 10:33:32.301405 2022] [core:notice] [pid 4804:tid 584] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Sat Nov 05 10:33:32.303407 2022] [mpm_winnt:notice] [pid 4804:tid 584] AH00418: Parent: Created child process 12020
+[Sat Nov 05 10:33:32.830406 2022] [mpm_winnt:notice] [pid 12020:tid 720] AH00354: Child: Starting 24 worker threads.
+[Sat Nov 05 10:34:56.173380 2022] [core:warn] [pid 5836:tid 620] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Nov 05 10:34:56.200413 2022] [mpm_winnt:notice] [pid 5836:tid 620] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sat Nov 05 10:34:56.200413 2022] [mpm_winnt:notice] [pid 5836:tid 620] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sat Nov 05 10:34:56.200413 2022] [core:notice] [pid 5836:tid 620] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Sat Nov 05 10:34:56.203382 2022] [mpm_winnt:notice] [pid 5836:tid 620] AH00418: Parent: Created child process 6456
+[Sat Nov 05 10:34:56.735980 2022] [mpm_winnt:notice] [pid 6456:tid 684] AH00354: Child: Starting 24 worker threads.
+[Sat Nov 05 10:49:56.038070 2022] [core:warn] [pid 3404:tid 576] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Nov 05 10:49:56.065395 2022] [mpm_winnt:notice] [pid 3404:tid 576] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sat Nov 05 10:49:56.065395 2022] [mpm_winnt:notice] [pid 3404:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sat Nov 05 10:49:56.065395 2022] [core:notice] [pid 3404:tid 576] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Sat Nov 05 10:49:56.067368 2022] [mpm_winnt:notice] [pid 3404:tid 576] AH00418: Parent: Created child process 17564
+[Sat Nov 05 10:49:56.619185 2022] [mpm_winnt:notice] [pid 17564:tid 684] AH00354: Child: Starting 24 worker threads.
+[Sat Nov 05 10:50:17.411222 2022] [authz_core:error] [pid 17564:tid 876] [client ::1:53847] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Sat Nov 05 10:59:09.334094 2022] [core:warn] [pid 4992:tid 576] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Nov 05 10:59:09.362095 2022] [mpm_winnt:notice] [pid 4992:tid 576] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sat Nov 05 10:59:09.362095 2022] [mpm_winnt:notice] [pid 4992:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sat Nov 05 10:59:09.362095 2022] [core:notice] [pid 4992:tid 576] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Sat Nov 05 10:59:09.364095 2022] [mpm_winnt:notice] [pid 4992:tid 576] AH00418: Parent: Created child process 1636
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 1636:tid 684] AH00354: Child: Starting 24 worker threads.
+[Sat Nov 05 11:16:05.829466 2022] [mpm_winnt:notice] [pid 4992:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Nov 05 11:16:07.842810 2022] [mpm_winnt:notice] [pid 1636:tid 684] AH00364: Child: All worker threads have exited.
+[Sat Nov 05 11:16:09.508535 2022] [mpm_winnt:notice] [pid 4992:tid 576] AH00430: Parent: Child process 1636 exited successfully.
+[Tue Nov 08 18:27:45.110504 2022] [mpm_winnt:notice] [pid 16576:tid 772] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Tue Nov 08 18:27:45.111504 2022] [mpm_winnt:notice] [pid 16576:tid 772] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Tue Nov 08 18:27:45.111504 2022] [core:notice] [pid 16576:tid 772] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Tue Nov 08 18:27:45.113503 2022] [mpm_winnt:notice] [pid 16576:tid 772] AH00418: Parent: Created child process 17612
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 17612:tid 684] AH00354: Child: Starting 24 worker threads.
+[Tue Nov 08 18:33:36.909076 2022] [mpm_winnt:notice] [pid 16576:tid 772] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 08 18:33:38.921148 2022] [mpm_winnt:notice] [pid 17612:tid 684] AH00364: Child: All worker threads have exited.
+[Tue Nov 08 18:33:39.547701 2022] [mpm_winnt:notice] [pid 16576:tid 772] AH00430: Parent: Child process 17612 exited successfully.
+[Thu Nov 10 21:52:49.050646 2022] [mpm_winnt:notice] [pid 17388:tid 668] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Thu Nov 10 21:52:49.050646 2022] [mpm_winnt:notice] [pid 17388:tid 668] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Thu Nov 10 21:52:49.050646 2022] [core:notice] [pid 17388:tid 668] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Thu Nov 10 21:52:49.053647 2022] [mpm_winnt:notice] [pid 17388:tid 668] AH00418: Parent: Created child process 11716
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 11716:tid 684] AH00354: Child: Starting 24 worker threads.
+[Thu Nov 10 22:10:36.390216 2022] [authz_core:error] [pid 11716:tid 852] [client ::1:54162] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=meta&do=admin
+[Thu Nov 10 23:11:45.044653 2022] [mpm_winnt:notice] [pid 17388:tid 668] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Nov 10 23:11:53.459928 2022] [mpm_winnt:notice] [pid 11716:tid 684] AH00364: Child: All worker threads have exited.
+[Thu Nov 10 23:12:00.675854 2022] [core:warn] [pid 2964:tid 576] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 10 23:12:00.703854 2022] [mpm_winnt:notice] [pid 2964:tid 576] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Thu Nov 10 23:12:00.703854 2022] [mpm_winnt:notice] [pid 2964:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Thu Nov 10 23:12:00.703854 2022] [core:notice] [pid 2964:tid 576] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Thu Nov 10 23:12:00.705856 2022] [mpm_winnt:notice] [pid 2964:tid 576] AH00418: Parent: Created child process 12084
+[Thu Nov 10 23:12:01.247884 2022] [mpm_winnt:notice] [pid 12084:tid 684] AH00354: Child: Starting 24 worker threads.
+[Thu Nov 10 23:13:41.385331 2022] [core:warn] [pid 20248:tid 584] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 10 23:13:41.412331 2022] [mpm_winnt:notice] [pid 20248:tid 584] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Thu Nov 10 23:13:41.412331 2022] [mpm_winnt:notice] [pid 20248:tid 584] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Thu Nov 10 23:13:41.412331 2022] [core:notice] [pid 20248:tid 584] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Thu Nov 10 23:13:41.414335 2022] [mpm_winnt:notice] [pid 20248:tid 584] AH00418: Parent: Created child process 7744
+[Thu Nov 10 23:13:41.938331 2022] [mpm_winnt:notice] [pid 7744:tid 684] AH00354: Child: Starting 24 worker threads.
+[Thu Nov 10 23:18:09.211322 2022] [authz_core:error] [pid 7744:tid 864] [client ::1:59767] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Thu Nov 10 23:18:43.281070 2022] [core:warn] [pid 22428:tid 576] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 10 23:18:43.307953 2022] [mpm_winnt:notice] [pid 22428:tid 576] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Thu Nov 10 23:18:43.307953 2022] [mpm_winnt:notice] [pid 22428:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Thu Nov 10 23:18:43.307953 2022] [core:notice] [pid 22428:tid 576] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Thu Nov 10 23:18:43.310953 2022] [mpm_winnt:notice] [pid 22428:tid 576] AH00418: Parent: Created child process 3560
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 3560:tid 684] AH00354: Child: Starting 24 worker threads.
+[Thu Nov 10 23:24:29.808900 2022] [authz_core:error] [pid 3560:tid 868] [client ::1:59946] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Thu Nov 10 23:27:17.646300 2022] [mpm_winnt:notice] [pid 22428:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Nov 10 23:27:19.668301 2022] [mpm_winnt:notice] [pid 3560:tid 684] AH00364: Child: All worker threads have exited.
+[Thu Nov 10 23:27:20.096280 2022] [mpm_winnt:notice] [pid 22428:tid 576] AH00430: Parent: Child process 3560 exited successfully.
+[Thu Nov 10 23:27:50.365456 2022] [mpm_winnt:notice] [pid 5780:tid 668] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Thu Nov 10 23:27:50.365456 2022] [mpm_winnt:notice] [pid 5780:tid 668] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Thu Nov 10 23:27:50.365456 2022] [core:notice] [pid 5780:tid 668] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Thu Nov 10 23:27:50.368427 2022] [mpm_winnt:notice] [pid 5780:tid 668] AH00418: Parent: Created child process 22068
+[Thu Nov 10 23:27:50.908457 2022] [mpm_winnt:notice] [pid 22068:tid 684] AH00354: Child: Starting 24 worker threads.
+[Thu Nov 10 23:27:57.543939 2022] [authz_core:error] [pid 22068:tid 860] [client ::1:60056] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Thu Nov 10 23:42:30.424329 2022] [core:warn] [pid 8764:tid 580] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 10 23:42:30.451361 2022] [mpm_winnt:notice] [pid 8764:tid 580] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Thu Nov 10 23:42:30.451361 2022] [mpm_winnt:notice] [pid 8764:tid 580] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Thu Nov 10 23:42:30.451361 2022] [core:notice] [pid 8764:tid 580] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Thu Nov 10 23:42:30.454358 2022] [mpm_winnt:notice] [pid 8764:tid 580] AH00418: Parent: Created child process 11084
+[Thu Nov 10 23:42:30.989617 2022] [mpm_winnt:notice] [pid 11084:tid 688] AH00354: Child: Starting 24 worker threads.
+[Thu Nov 10 23:43:01.531071 2022] [authz_core:error] [pid 11084:tid 832] [client ::1:60507] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=sitzung&do=admin
+[Fri Nov 11 00:27:12.855374 2022] [core:warn] [pid 17132:tid 576] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 11 00:27:12.883372 2022] [mpm_winnt:notice] [pid 17132:tid 576] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Fri Nov 11 00:27:12.883372 2022] [mpm_winnt:notice] [pid 17132:tid 576] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Fri Nov 11 00:27:12.883372 2022] [core:notice] [pid 17132:tid 576] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Fri Nov 11 00:27:12.885345 2022] [mpm_winnt:notice] [pid 17132:tid 576] AH00418: Parent: Created child process 7448
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7448:tid 684] AH00354: Child: Starting 24 worker threads.
+[Fri Nov 11 00:35:57.981120 2022] [mpm_winnt:notice] [pid 17132:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 11 00:36:00.006191 2022] [mpm_winnt:notice] [pid 7448:tid 684] AH00364: Child: All worker threads have exited.
+[Fri Nov 11 00:36:00.432369 2022] [mpm_winnt:notice] [pid 17132:tid 576] AH00430: Parent: Child process 7448 exited successfully.
+[Sun Nov 13 19:24:10.073452 2022] [mpm_winnt:notice] [pid 9624:tid 548] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sun Nov 13 19:24:10.073452 2022] [mpm_winnt:notice] [pid 9624:tid 548] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sun Nov 13 19:24:10.073452 2022] [core:notice] [pid 9624:tid 548] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Sun Nov 13 19:24:10.076453 2022] [mpm_winnt:notice] [pid 9624:tid 548] AH00418: Parent: Created child process 15196
+[Sun Nov 13 19:24:10.625502 2022] [mpm_winnt:notice] [pid 15196:tid 684] AH00354: Child: Starting 24 worker threads.
+[Sun Nov 13 19:35:26.901925 2022] [authz_core:error] [pid 15196:tid 848] [client ::1:50078] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Mon Nov 14 20:07:26.700755 2022] [core:warn] [pid 13580:tid 540] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 14 20:07:26.852755 2022] [mpm_winnt:notice] [pid 13580:tid 540] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Mon Nov 14 20:07:26.852755 2022] [mpm_winnt:notice] [pid 13580:tid 540] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Mon Nov 14 20:07:26.852755 2022] [core:notice] [pid 13580:tid 540] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Mon Nov 14 20:07:26.855756 2022] [mpm_winnt:notice] [pid 13580:tid 540] AH00418: Parent: Created child process 15912
+[Mon Nov 14 20:07:27.384205 2022] [mpm_winnt:notice] [pid 15912:tid 696] AH00354: Child: Starting 24 worker threads.
+[Mon Nov 14 20:24:21.577606 2022] [authz_core:error] [pid 15912:tid 860] [client ::1:55826] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=sitzung&do=admin
+[Mon Nov 14 20:25:47.725621 2022] [core:warn] [pid 988:tid 580] AH00098: pid file C:/Users/Alexander/CEWiki/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 14 20:25:47.752621 2022] [mpm_winnt:notice] [pid 988:tid 580] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Mon Nov 14 20:25:47.752621 2022] [mpm_winnt:notice] [pid 988:tid 580] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Mon Nov 14 20:25:47.752621 2022] [core:notice] [pid 988:tid 580] AH00094: Command line: 'mapache.exe -d C:/Users/Alexander/CEWiki/server'
+[Mon Nov 14 20:25:47.754593 2022] [mpm_winnt:notice] [pid 988:tid 580] AH00418: Parent: Created child process 9196
+[Mon Nov 14 20:25:48.288623 2022] [mpm_winnt:notice] [pid 9196:tid 684] AH00354: Child: Starting 24 worker threads.
+[Mon Nov 14 20:38:43.723684 2022] [authz_core:error] [pid 9196:tid 860] [client ::1:56403] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=sitzung&do=admin
+[Mon Nov 14 21:22:56.015126 2022] [authz_core:error] [pid 9196:tid 876] [client ::1:64732] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=meta&do=admin
+[Mon Nov 14 21:24:13.125703 2022] [authz_core:error] [pid 9196:tid 864] [client ::1:64752] AH01630: client denied by server configuration: C:/Users/Alexander/CEWiki/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=meta&do=admin

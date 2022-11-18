@@ -1,0 +1,5 @@
+====== Sitzung ======
+
+Infos über Sitzung zum Beispiel Ablauf, Rollen und Regeln\\
+  * [[sitzung:sitzungsprotokolle|Sitzungsprotokolle]]
+  * {{ :abstimmungsordnung_fachschaft_ce.pdf | Abstimmungsordnung}}

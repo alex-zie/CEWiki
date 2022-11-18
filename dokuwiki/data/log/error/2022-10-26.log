@@ -1,0 +1,27 @@
+2022-10-26 20:49:11	C:\Users\Alexander\CEWiki\dokuwiki\vendor\splitbrain\slika\src\GdAdapter.php(194)	dokuwiki\Exception\FatalException: Allowed memory size of 134217728 bytes exhausted (tried to allocate 83665280 bytes)
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}
+2022-10-26 20:49:40	C:\Users\Alexander\CEWiki\dokuwiki\vendor\splitbrain\slika\src\GdAdapter.php(194)	dokuwiki\Exception\FatalException: Allowed memory size of 134217728 bytes exhausted (tried to allocate 83665280 bytes)
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}
+2022-10-26 20:49:41	C:\Users\Alexander\CEWiki\dokuwiki\vendor\splitbrain\slika\src\GdAdapter.php(194)	dokuwiki\Exception\FatalException: Allowed memory size of 134217728 bytes exhausted (tried to allocate 83665280 bytes)
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}
+2022-10-26 20:49:53	C:\Users\Alexander\CEWiki\dokuwiki\vendor\splitbrain\slika\src\GdAdapter.php(194)	dokuwiki\Exception\FatalException: Allowed memory size of 134217728 bytes exhausted (tried to allocate 83665280 bytes)
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}
+2022-10-26 20:50:04	C:\Users\Alexander\CEWiki\dokuwiki\vendor\splitbrain\slika\src\GdAdapter.php(194)	dokuwiki\Exception\FatalException: Allowed memory size of 134217728 bytes exhausted (tried to allocate 83665280 bytes)
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}
+2022-10-26 20:50:41	C:\Users\Alexander\CEWiki\dokuwiki\vendor\splitbrain\slika\src\GdAdapter.php(194)	dokuwiki\Exception\FatalException: Allowed memory size of 134217728 bytes exhausted (tried to allocate 83665280 bytes)
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}
+2022-10-26 20:50:46	C:\Users\Alexander\CEWiki\dokuwiki\vendor\splitbrain\slika\src\GdAdapter.php(194)	dokuwiki\Exception\FatalException: Allowed memory size of 134217728 bytes exhausted (tried to allocate 83665280 bytes)
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}
+2022-10-26 20:51:22	C:\Users\Alexander\CEWiki\dokuwiki\vendor\splitbrain\slika\src\GdAdapter.php(194)	dokuwiki\Exception\FatalException: Allowed memory size of 134217728 bytes exhausted (tried to allocate 83665280 bytes)
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}
+2022-10-26 20:51:22	C:\Users\Alexander\CEWiki\dokuwiki\vendor\splitbrain\slika\src\GdAdapter.php(194)	dokuwiki\Exception\FatalException: Allowed memory size of 134217728 bytes exhausted (tried to allocate 83665280 bytes)
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}

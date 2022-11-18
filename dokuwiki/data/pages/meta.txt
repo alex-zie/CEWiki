@@ -1,0 +1,21 @@
+====== Meta ======
+
+Meta-Informationen wie Richtlinien, Tutorials, Feedback & Vorschläge
+  * [[meta:feedback_vorschlaege|Feedback & Vorschläge]]
+
+==== Bearbeiten ====
+=== Sidebar ===
+[[sidebar|Sidebar bearbeiten]] ✏️
+
+Für das Indexmenu in der Sidebar lassen sich verschiedene Themes auswählen. Möchtest du das CSS eines Themes bearbeiten, so findest du es unter:
+<code>
+./lib/plugins/images/indexmenu/images/<yourtheme>/style.css
+</code>
+Wenn das nicht funktioniert, kannst du auch den allgemeinen Style des Indexmenus bearbeiten unter:
+<code>
+./lib/plugins/indexmenu/style.css
+</code>
+Möchtest du die Funktionsweise des Indexmenus ändern, so findest du den Quellcode unter:
+<code>
+./lib/plugins/indexmenu/scripts/
+</code>
