@@ -3,7 +3,34 @@
 Meta-Informationen wie Richtlinien, Tutorials, Feedback & Vorschläge
   * [[meta:feedback_vorschlaege|Feedback & Vorschläge]]
 
+==== Template ====
+Templates verändern den Style und das Layout von Dokuwiki. Das hier benutzte Template ist [[https://www.dokuwiki.org/template:bootstrap3|Bootstrap3]].
+Es enthält verschiedene Themes, Sidebar-Optionen und ist darüber hinaus ausgesprochen weit anpassbar. Die Einstellungen können nur von Admins über den Konfigurations-Manager geändert werden. 
+
+==== Plugins ====
+Die momentan verwendeten Plugins sind:
+  * [[https://www.dokuwiki.org/plugin:discussion|Discussion Plugin]]
+  * [[https://www.dokuwiki.org/plugin:fastwiki|Fastwiki Plugin]]
+  * [[https://www.dokuwiki.org/plugin:indexmenu|Indexmenu Plugin]]
+  * [[https://www.dokuwiki.org/plugin:data|Structured Data Plugin]]
+
 ==== Bearbeiten ====
+=== Templates ===
+Die von Dokuwiki vorgeschlagene Weise, Templates zu bearbeiten, ist [[https://www.dokuwiki.org/template:dokuwiki#changing_the_width_and_other_styles|hier]] zu finden. Da dieses Vorgehen jedoch noch nie funktioniert hat, kann es nötig sein, die Quelldateien direkt zu bearbeiten.
+
+Die Ordner mit den Inhalten der Quelldateien des Bootstrap3-Templates befinden sich unter:
+<code>
+.\lib\tpl\bootstrap3\assets\bootstrap
+</code>
+In ihnen befindet sich jeweils eine Datei namens "bootstrap.min", in der die Styles definiert sind und welche bearbeitet werden kann.\\
+**Hinweis!** Damit die Änderungen im Browser angezeigt werden, müssen die Browserdaten gelöscht werden, bzw. Cache muss deaktiviert sein.
+
+Wenn auch das bearbeiten der Quelldateien nicht das erwünschte Ergebnis liefert, kann die gewünschte Style-Property auch per jQuery Befehl in
+<code>
+.\lib\tpl\bootstrap3\script.js
+</code>
+geschrieben werden.
+
 === Sidebar ===
 [[sidebar|Sidebar bearbeiten]] ✏️
 
@@ -19,3 +46,5 @@ Möchtest du die Funktionsweise des Indexmenus ändern, so findest du den Quellc
 <code>
 ./lib/plugins/indexmenu/scripts/
 </code>
+
+Für weitere Infos konsultiere die [[https://www.dokuwiki.org/plugin:indexmenu|Dokumentation]] des Indexmenu-Plugins.

@@ -125,6 +125,9 @@ var dw_template = {
 
         var $dw_content = jQuery('#dokuwiki__content, #media__manager');  // Page Content node
 
+        // Change width of article (Alex)
+        jQuery('#dokuwiki__content').css("width", "68%");
+
         // Abbr tooltips
         jQuery('abbr').tooltip();
 

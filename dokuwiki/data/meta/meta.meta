@@ -1,13 +1,10 @@
-a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1668114527;s:8:"modified";i:1668456359;}s:7:"creator";s:19:"Alexander Zieschang";s:4:"user";s:8:"alex.zie";s:11:"last_change";a:8:{s:4:"date";i:1668456359;s:2:"ip";s:3:"::1";s:4:"type";s:1:"E";s:2:"id";s:4:"meta";s:4:"user";s:8:"alex.zie";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:587;}s:11:"contributor";a:1:{s:8:"alex.zie";s:19:"Alexander Zieschang";}s:5:"title";s:4:"Meta";s:11:"description";a:2:{s:15:"tableofcontents";a:2:{i:0;a:4:{s:3:"hid";s:4:"meta";s:5:"title";s:4:"Meta";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:10:"bearbeiten";s:5:"title";s:10:"Bearbeiten";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:300:"Meta
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1668114527;s:8:"modified";i:1668798587;}s:7:"creator";s:19:"Alexander Zieschang";s:4:"user";s:8:"alex.zie";s:11:"last_change";a:8:{s:4:"date";i:1668798827;s:2:"ip";s:3:"::1";s:4:"type";s:1:"e";s:2:"id";s:4:"meta";s:4:"user";s:8:"alex.zie";s:3:"sum";s:13:"[Bearbeiten] ";s:5:"extra";s:0:"";s:10:"sizechange";i:104;}s:11:"contributor";a:1:{s:8:"alex.zie";s:19:"Alexander Zieschang";}s:5:"title";s:4:"Meta";s:11:"description";a:2:{s:15:"tableofcontents";a:4:{i:0;a:4:{s:3:"hid";s:4:"meta";s:5:"title";s:4:"Meta";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:8:"template";s:5:"title";s:8:"Template";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:2;a:4:{s:3:"hid";s:7:"plugins";s:5:"title";s:7:"Plugins";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:3;a:4:{s:3:"hid";s:10:"bearbeiten";s:5:"title";s:10:"Bearbeiten";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:413:"Meta
 
 Meta-Informationen wie Richtlinien, Tutorials, Feedback & Vorschläge
 
 	*  Feedback & Vorschläge
 
-Bearbeiten
+Template
 
-Sidebar
-
-Sidebar bearbeiten ✏️
-
-Für das Indexmenu in der Sidebar lassen sich verschiedene Themes auswählen. Möchtest du das CSS eines Themes bearbeiten, so findest du es unter:";}s:8:"relation";a:2:{s:10:"references";a:2:{s:25:"meta:feedback_vorschlaege";b:1;s:7:"sidebar";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1668114527;s:8:"modified";i:1668456359;}s:7:"creator";s:19:"Alexander Zieschang";s:4:"user";s:8:"alex.zie";s:11:"last_change";a:8:{s:4:"date";i:1668456359;s:2:"ip";s:3:"::1";s:4:"type";s:1:"E";s:2:"id";s:4:"meta";s:4:"user";s:8:"alex.zie";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:587;}s:11:"contributor";a:1:{s:8:"alex.zie";s:19:"Alexander Zieschang";}}}
+Templates verändern den Style und das Layout von Dokuwiki. Das hier benutzte Template ist Bootstrap3.
+Es enthält verschiedene Themes, Sidebar-Optionen und ist darüber hinaus ausgesprochen weit anpassbar. Die Einstellungen können nur von Admins über den Konfigurations-Manager geändert werden.";}s:8:"relation";a:2:{s:10:"references";a:2:{s:25:"meta:feedback_vorschlaege";b:1;s:7:"sidebar";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1668114527;s:8:"modified";i:1668798587;}s:7:"creator";s:19:"Alexander Zieschang";s:4:"user";s:8:"alex.zie";s:11:"last_change";a:8:{s:4:"date";i:1668798827;s:2:"ip";s:3:"::1";s:4:"type";s:1:"e";s:2:"id";s:4:"meta";s:4:"user";s:8:"alex.zie";s:3:"sum";s:13:"[Bearbeiten] ";s:5:"extra";s:0:"";s:10:"sizechange";i:104;}s:11:"contributor";a:1:{s:8:"alex.zie";s:19:"Alexander Zieschang";}}}
