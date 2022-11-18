@@ -129,6 +129,13 @@ jQuery(function(){
             DokuCookie.setValue('ext_'+this.name, $extlist.hasClass(this.name) ? '1' : '0');
         };
 
+        // makes extension list black bc it was invisible (Alex)
+        var li = $extlist[0].childNodes[1].childNodes;
+        for(var i=0; i<li.length; i+=2){
+            jQuery(li[i]).css('color', 'black');
+        }
+        
+
         jQuery(['enabled', 'disabled', 'updatable']).each(function(index, chkName){
             var $label = jQuery( '<label></label>' )
                 .appendTo($displayOpts);
