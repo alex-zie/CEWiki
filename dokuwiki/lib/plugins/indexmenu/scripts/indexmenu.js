@@ -132,6 +132,8 @@ function dTree(objName, theme) {
  * @param {number}        ajax   load subnodes by ajax
  */
 dTree.prototype.add = function (dokuid, id, pid, name, hns, isdir, ajax) {
+    if(name.toLocaleLowerCase() == "feedback & vorschläge")
+        name = "Feedback &\nVorschläge"; //Tried this but didn't work :(
     this.aNodes[this.aNodes.length] = new dTreeNode(dokuid, id, pid, name, hns, isdir, ajax);
 };
 

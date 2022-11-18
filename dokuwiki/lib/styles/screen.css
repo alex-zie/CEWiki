@@ -53,6 +53,20 @@ div.notify {
     border-color: #eeb;
 }
 
+/* I added these to display my custom comments and didn't know where to put them. (Alex) */
+.comment{
+    margin-left:72%;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 200px;
+    padding: 8px;
+    background-color:#AADDFF
+  }
+.comment_content{
+    display: none;
+    padding-top: 5px;
+}
+
 /* modal windows */
 .JSpopup,
 #link__wiz {

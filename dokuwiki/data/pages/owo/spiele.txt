@@ -31,29 +31,6 @@ Das PPK ist i.A. unter den Erstis sehr beliebt. Es sind immer einige mutige Frei
 Schreib mich!
 
 <html>
-<head>
-  <style>
-  .comment{
-    margin-left:72%;
-    border: 1px solid black;
-    border-radius: 5px;
-    width: 200px;
-    padding: 8px;
-    background-color:#AADDFF
-  }
-  .comment_content{
-    display: none;
-    padding-top: 5px;
-  }
-  </style>
-  <script language="javascript" type="text/javascript">
-    function ausklappen(node){
-      var arr = node.childNodes;
-      arr[5].style.display = (arr[5].style.display == 'block') ? 'none' : 'block';
-    }
-    </script>
-</head>
-<body>
   <div class="comment">
     <button onclick="ausklappen(this.parentNode)"><b>Kommentar</b></button>
     <i>- Alex Z.</i>
@@ -61,11 +38,11 @@ Schreib mich!
     Dies könnte ein Kommentar sein.
     </div>
   </div>
-</body>
 </html>
 
 ==== Hi Ha Ho! ====
 Schreib mich!
+
 
 ===== Teamspiele =====
 ==== Türme bauen ====

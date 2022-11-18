@@ -1,1 +1,8 @@
-a:3:{s:5:"title";N;s:6:"status";i:1;s:6:"number";i:0;}
+a:5:{s:5:"title";N;s:6:"status";i:1;s:6:"number";i:1;s:8:"comments";a:1:{s:32:"2bff983b807e651ad5dfce73b0f72c79";a:8:{s:4:"user";a:5:{s:2:"id";s:8:"alex.zie";s:4:"name";s:19:"Alexander Zieschang";s:4:"mail";s:29:"Alexander.Zieschang@gmail.com";s:7:"address";s:0:"";s:3:"url";s:0:"";}s:4:"date";a:2:{s:7:"created";i:1668808575;s:8:"modified";i:1668808582;}s:3:"raw";s:221:"**Sidebar / Indexmenu**\\
+Mir gefällt das Indexmenu am linken Rand noch nicht so sehr. Es wäre schön, wenn man die Reihenfolge und Titel der Links verändern könnte. Das habe ich bisher aber noch nicht hingekriegt. :(";s:5:"xhtml";s:249:"
+<p>
+<strong>Sidebar / Indexmenu</strong><br/>
+
+Mir gefällt das Indexmenu am linken Rand noch nicht so sehr. Es wäre schön, wenn man die Reihenfolge und Titel der Links verändern könnte. Das habe ich bisher aber noch nicht hingekriegt. :(
+</p>
+";s:6:"parent";N;s:7:"replies";a:0:{}s:4:"show";b:1;s:3:"cid";s:32:"2bff983b807e651ad5dfce73b0f72c79";}}s:11:"subscribers";N;}

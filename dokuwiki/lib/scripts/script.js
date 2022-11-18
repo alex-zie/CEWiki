@@ -25,6 +25,12 @@ function closePopups(){
     jQuery('div.JSpopup').hide();
 }
 
+/* My fucntion to make comments collapse. Didn't know where to put it. (Alex) */
+function ausklappen(node){
+    var arr = node.childNodes;
+    arr[5].style.display = (arr[5].style.display == 'block') ? 'none' : 'block';
+}
+
 jQuery(function () {
     jQuery(document).on('click', closePopups);
 });

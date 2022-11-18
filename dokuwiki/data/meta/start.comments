@@ -1,4 +1,4 @@
-a:5:{s:5:"title";N;s:6:"status";i:1;s:6:"number";i:1;s:8:"comments";a:1:{s:32:"66ab93a897fb090a4433fc1253cf7771";a:8:{s:4:"user";a:5:{s:2:"id";s:8:"alex.zie";s:4:"name";s:19:"Alexander Zieschang";s:4:"mail";s:29:"Alexander.Zieschang@gmail.com";s:7:"address";s:0:"";s:3:"url";s:0:"";}s:4:"date";a:1:{s:7:"created";i:1668122446;}s:3:"raw";s:27:"Funktioniert der Kommentar?";s:5:"xhtml";s:38:"
+a:5:{s:5:"title";N;s:6:"status";i:0;s:6:"number";i:1;s:8:"comments";a:1:{s:32:"66ab93a897fb090a4433fc1253cf7771";a:8:{s:4:"user";a:5:{s:2:"id";s:8:"alex.zie";s:4:"name";s:19:"Alexander Zieschang";s:4:"mail";s:29:"Alexander.Zieschang@gmail.com";s:7:"address";s:0:"";s:3:"url";s:0:"";}s:4:"date";a:1:{s:7:"created";i:1668122446;}s:3:"raw";s:27:"Funktioniert der Kommentar?";s:5:"xhtml";s:38:"
 <p>
 Funktioniert der Kommentar?
 </p>

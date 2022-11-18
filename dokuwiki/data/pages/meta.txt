@@ -14,6 +14,30 @@ Die momentan verwendeten Plugins sind:
   * [[https://www.dokuwiki.org/plugin:indexmenu|Indexmenu Plugin]]
   * [[https://www.dokuwiki.org/plugin:data|Structured Data Plugin]]
 
+==== Kommentare ====
+Bei einigen Seiten ist eine Discussion am Ende, in der man Kommentare hinterlassen kann. Diese ist über das [[https://www.dokuwiki.org/plugin:discussion|Discussion Plugin]] realisiert. Es wäre jedoch auch schön, wenn man auch kleine Anmerkungen mitten im Text platzieren könnte. Deshalb hat Alex einen Workaround hinzugefügt. Möchtest du eine kleine Anmerkung unter einen Absatz oder Artikel packen, so füge folgenden Code ein.
+<code>
+<html>
+  <div class="comment">
+    <button onclick="ausklappen(this.parentNode)"><b>Kommentar</b></button>
+    <i>- Dein Name</i>
+    <div class="comment_content">
+      Dein Kommentar.
+    </div>
+  </div>
+</html>
+</code>
+
+<html>
+  <div class="comment">
+    <button onclick="ausklappen(this.parentNode)"><b>Kommentar</b></button>
+    <i>- Alex Z.</i>
+    <div class="comment_content">
+      So sieht der Kommentar dann aus.
+    </div>
+  </div>
+</html>
+
 ==== Bearbeiten ====
 === Templates ===
 Die von Dokuwiki vorgeschlagene Weise, Templates zu bearbeiten, ist [[https://www.dokuwiki.org/template:dokuwiki#changing_the_width_and_other_styles|hier]] zu finden. Da dieses Vorgehen jedoch noch nie funktioniert hat, kann es nötig sein, die Quelldateien direkt zu bearbeiten.
