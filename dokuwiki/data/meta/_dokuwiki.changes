@@ -1,69 +1,3 @@
-1668113761	::1	C	mitglieder	alex.zie	angelegt		88
-1668113828	::1	C	schluessel_rechte	alex.zie	angelegt		38
-1668113876	::1	C	finanzierungsmoeglichkeiten	alex.zie	angelegt		44
-1668113986	::1	C	sitzungsprotokolle	alex.zie	angelegt		22
-1668114054	::1	C	weihnachstsfeier	alex.zie	angelegt		15
-1668114348	::1	C	sitzung	alex.zie	angelegt		58
-1668114527	::1	C	meta	alex.zie	angelegt		69
-1668115663	::1	E	finanzierungsmoeglichkeiten	alex.zie			43
-1668115677	::1	E	sitzung	alex.zie			23
-1668119952	::1	E	sidebar	alex.zie			1
-1668119963	::1	E	sidebar	alex.zie			-3
-1668120030	::1	E	sidebar	alex.zie			1
-1668120120	::1	E	sidebar	alex.zie			-6
-1668120225	::1	E	sidebar	alex.zie			-1
-1668120254	::1	E	sidebar	alex.zie			7
-1668120381	::1	E	finanzierungsmoeglichkeiten	alex.zie			-15
-1668120854	::1	E	sidebar	alex.zie			218
-1668121210	::1	E	sidebar	alex.zie			-210
-1668121412	::1	E	sidebar	alex.zie			1
-1668121433	::1	E	sidebar	alex.zie			2
-1668121474	::1	E	sidebar	alex.zie			-8
-1668121514	::1	E	sidebar	alex.zie			7
-1668121771	::1	E	sidebar	alex.zie			-7
-1668121793	::1	E	schluessel_rechte	alex.zie			35
-1668121861	::1	E	meta	alex.zie			21
-1668121876	::1	E	weihnachstsfeier	alex.zie			15
-1668121891	::1	E	mitglieder	alex.zie			26
-1668122171	::1	E	owo:owo	alex.zie			-6
-1668122428	::1	E	start	alex.zie			15
-1668123030	::1	E	owo:spiele	alex.zie	[Quiz] 		74
-1668123207	::1	E	owo:spiele	alex.zie	[Quiz] 		108
-1668123234	::1	E	owo:spiele	alex.zie	[Quiz] 		-14
-1668113986	127.0.0.1	C	sitzung:sitzungsprotokolle		angelegt - Externe Bearbeitung		22
-1668363905	::1	e	sitzung:sitzungsprotokolle	alex.zie			11
-1668364011	::1	e	owo:owo	alex.zie	[A-Z] 		26
-1668364298	::1	C	owo:vortraege	alex.zie	angelegt		24
-1668364397	::1	e	owo:vortraege	alex.zie			178
-1668364427	::1	E	owo:vortraege	alex.zie			6
-1668364491	::1	E	sidebar	alex.zie			6
-1668364649	::1	C	owo:tucan_moodle	alex.zie	angelegt		224
-1668364658	::1	E	owo:tucan_moodle	alex.zie			-22
-1668364801	::1	C	owo:zeitplan	alex.zie	angelegt		102
-1668364876	::1	e	owo:owo	alex.zie	[A-Z] 		22
-1668364913	::1	C	owo:rallye	alex.zie	angelegt		105
-1668365585	::1	e	sitzung	alex.zie			50
-1668365628	::1	E	sitzung	alex.zie			2
-1668452980	::1	e	sitzung:sitzungsprotokolle	alex.zie			100
-1668453855	::1	E	sitzung	alex.zie			74
-1668453981	::1	E	sitzung	alex.zie			33
-1668454116	::1	E	sitzung	alex.zie			-35
-1668454246	::1	E	sitzung	alex.zie			1
-1668454288	::1	E	sitzung	alex.zie			1
-1668454785	::1	E	sitzung	alex.zie			-2
-1668455249	::1	E	meta	alex.zie			16
-1668455293	::1	e	meta	alex.zie			41
-1668455330	::1	C	meta:feedback_vorschlaege	alex.zie	angelegt		52
-1668455361	::1	e	meta	alex.zie			-1
-1668456359	::1	E	meta	alex.zie			587
-1668798587	::1	E	meta	alex.zie	Template/Style/Layout bearbeiten		1629
-1668798641	::1	e	meta	alex.zie			2
-1668798668	::1	e	meta	alex.zie			8
-1668798705	::1	e	meta	alex.zie			4
-1668798827	::1	e	meta	alex.zie	[Bearbeiten] 		104
-1668800548	::1	E	owo:spiele	alex.zie	[Quiz] 		480
-1668800766	::1	E	owo:spiele	alex.zie	[Quiz] 		32
-1668800836	::1	E	owo:spiele	alex.zie			17
 1668800874	::1	E	owo:spiele	alex.zie	[Quiz] 		1
 1668800944	::1	E	owo:spiele	alex.zie	[Quiz] 		4
 1668800999	::1	E	owo:spiele	alex.zie	[Quiz] 		23
@@ -84,3 +18,8 @@
 1668808058	::1	E	start	alex.zie	Text komplett überarbeitet		40
 1668808176	::1	E	start	alex.zie			0
 1668808205	::1	e	start	alex.zie			15
+1671227394	::1	E	weihnachstsfeier	alex.zie			1042
+1671228386	::1	E	weihnachstsfeier	alex.zie	[Bericht 2022] 		263
+1671230630	::1	E	weihnachstsfeier	alex.zie			644
+1671230714	::1	E	weihnachstsfeier	alex.zie			1
+1671230920	::1	e	weihnachstsfeier	alex.zie			264
