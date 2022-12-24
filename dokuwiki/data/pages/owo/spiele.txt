@@ -28,7 +28,21 @@ Das PPK ist i.A. unter den Erstis sehr beliebt. Es sind immer einige mutige Frei
   * Es kann vorkommen, dass sich die Vorträge sehr in die Länge ziehen, wenn das Publikum zu viele Fragen stellt
 
 ==== Quiz ====
-Schreib mich!
+In der OWO 2022 wurde ein Pub durchgeführt. Die Erstis wurden in vier Gruppen (Tische) aufgeteilt und es gab vier Fragerunden. Nach jeder Runde wurden die Antworten bekanntgegeben und die Gruppen haben sich gegenseitig korrigiert und Punkte aufgeschrieben.
+Die vier Kategorien waren:
+  - Dem Ingenieur ist nichts zu schwör!
+  - Kennst du deine Kommillitonen?
+  - Funfacts rund um Computer, Nerd-Kultur und das Internet
+  - Neuinterpretierte Musik erraten
+Die Fragen waren im Allgemeinen eher auf Komik als auf Beantwortbarkeit ausgelegt. Für die Kategorie "Wie gut kennst du deine Kommilitonen?" wurde ein zuvor ausgefüllter Steckbrief verwendet.
+
+<html>
+<a style="color: black;" href="https://sharelatex.tu-darmstadt.de/project/6319e5eb15990701fca1005c">
+<button style="background: white; border: 2px solid green; border-radius: 5px">
+ShareLatex ✏️
+</button>
+</a>
+</html>
 
 <html>
   <div class="comment">
