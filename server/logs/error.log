@@ -377,3 +377,12 @@ pm_winnt:notice] [pid 3964:tid 700] AH00354: Child: Starting 24 worker threads.
 [Fri Dec 16 23:52:06.918328 2022] [mpm_winnt:notice] [pid 12168:tid 256] AH00422: Parent: Received shutdown signal -- Shutting down the server.
 [Fri Dec 16 23:52:08.932263 2022] [mpm_winnt:notice] [pid 3964:tid 700] AH00364: Child: All worker threads have exited.
 [Fri Dec 16 23:52:11.391087 2022] [mpm_winnt:notice] [pid 12168:tid 256] AH00430: Parent: Child process 3964 exited successfully.
+[Sat Dec 24 14:28:45.174687 2022] [mpm_winnt:notice] [pid 13532:tid 720] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sat Dec 24 14:28:45.175576 2022] [mpm_winnt:notice] [pid 13532:tid 720] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sat Dec 24 14:28:45.175576 2022] [core:notice] [pid 13532:tid 720] AH00094: Command line: 'mapache.exe -d C:/Users/Alex/CEWiki/server'
+[Sat Dec 24 14:28:45.179861 2022] [mpm_winnt:notice] [pid 13532:tid 720] AH00418: Parent: Created child process 14832
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 14832:tid 740] AH00354: Child: Starting 24 worker threads.
+[Sat Dec 24 14:29:12.109568 2022] [mpm_winnt:notice] [pid 13532:tid 720] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 24 14:29:14.130751 2022] [mpm_winnt:notice] [pid 14832:tid 740] AH00364: Child: All worker threads have exited.
+[Sat Dec 24 14:29:15.783915 2022] [mpm_winnt:notice] [pid 13532:tid 720] AH00430: Parent: Child process 14832 exited successfully.
