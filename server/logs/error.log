@@ -413,3 +413,21 @@ pm_winnt:notice] [pid 7176:tid 712] AH00354: Child: Starting 24 worker threads.
 [Sun Dec 25 11:29:25.798029 2022] [mpm_winnt:notice] [pid 13676:tid 748] AH00422: Parent: Received shutdown signal -- Shutting down the server.
 [Sun Dec 25 11:29:27.825652 2022] [mpm_winnt:notice] [pid 7176:tid 712] AH00364: Child: All worker threads have exited.
 [Sun Dec 25 11:29:29.087361 2022] [mpm_winnt:notice] [pid 13676:tid 748] AH00430: Parent: Child process 7176 exited successfully.
+[Sun Dec 25 15:59:48.802775 2022] [mpm_winnt:notice] [pid 1908:tid 648] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sun Dec 25 15:59:48.802775 2022] [mpm_winnt:notice] [pid 1908:tid 648] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sun Dec 25 15:59:48.802775 2022] [core:notice] [pid 1908:tid 648] AH00094: Command line: 'mapache.exe -d C:/Users/Alex/CEWiki/server'
+[Sun Dec 25 15:59:48.806569 2022] [mpm_winnt:notice] [pid 1908:tid 648] AH00418: Parent: Created child process 12548
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 12548:tid 768] AH00354: Child: Starting 24 worker threads.
+[Sun Dec 25 16:42:22.006619 2022] [mpm_winnt:notice] [pid 1908:tid 648] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 25 16:42:24.019930 2022] [mpm_winnt:notice] [pid 12548:tid 768] AH00364: Child: All worker threads have exited.
+[Sun Dec 25 16:42:26.048976 2022] [mpm_winnt:notice] [pid 1908:tid 648] AH00430: Parent: Child process 12548 exited successfully.
+[Sun Dec 25 16:42:39.918225 2022] [mpm_winnt:notice] [pid 2708:tid 728] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Sun Dec 25 16:42:39.918225 2022] [mpm_winnt:notice] [pid 2708:tid 728] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Sun Dec 25 16:42:39.918225 2022] [core:notice] [pid 2708:tid 728] AH00094: Command line: 'mapache.exe -d C:/Users/Alex/CEWiki/server'
+[Sun Dec 25 16:42:39.922640 2022] [mpm_winnt:notice] [pid 2708:tid 728] AH00418: Parent: Created child process 3264
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 3264:tid 724] AH00354: Child: Starting 24 worker threads.
+[Sun Dec 25 17:30:49.708210 2022] [mpm_winnt:notice] [pid 2708:tid 728] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 25 17:30:51.724646 2022] [mpm_winnt:notice] [pid 3264:tid 724] AH00364: Child: All worker threads have exited.
+[Sun Dec 25 17:30:52.915789 2022] [mpm_winnt:notice] [pid 2708:tid 728] AH00430: Parent: Child process 3264 exited successfully.

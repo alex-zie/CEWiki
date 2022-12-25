@@ -1,3 +1,7 @@
 ====== Schlüssel & Rechte ======
 
-Übersicht über Schlüssel und Rechte
+===== Schlüssel =====
+Folgende Personen besitzen einen Schlüssel für den Fachschaftsraum:
+  * Denis Andrić
+  * Tim Unverzagt
+  * Lisa Zeitler
