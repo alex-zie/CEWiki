@@ -1,0 +1,61 @@
+====== OWO-Heft ======
+<html>
+<div style="background: green; padding-left: 5px">
+<a style="color: white;" href="https://sharelatex.tu-darmstadt.de/6197477975rvhhkrnpqsyv">Link zum ShareLatex ✏️</a>
+</div>
+</html>
+
+Das OWO-Heft ist ein Allround-Guide für die Erstis im Uni-Dschungel und dient als Informationsquelle und Nachschlagewerk für Themen wie Studiumsorganisation, das Leben in Darmstadt, der Studiengang CE und vieles mehr.
+
+===== Aktualisierungen =====
+Es ist darauf zu achten, dass das OWO-Heft immer aktuell ist. Hier ist eine inkomplette Liste an Dingen, die immer auf dem neusten Stand sein müssen:
+  * Stundenplan
+  * OWO-Tutoren, ECES-Mentoren
+  * Liniennetzplan
+  * Semestergebühren
+  * OWO-Zeitplan¹
+1) Liegt auf dem ShareLatex von Tim Unverzagt.
+
+===== Produktion =====
+Das letzte Mal wurde das Heft bei [[https://www.wir-machen-druck.de/|www.wir-machen-druck.de]] gedruckt mit folgenden Daten:
+<html>
+<style>
+td{
+    padding-left: 15px;
+}
+</style>
+<table>
+<tr>
+    <td>Produktbezeichnung:</td>
+    <td>Broschüre mit Drahtheftung, Endformat DIN A5</td>
+</tr>
+<tr>
+    <td>Sorte:</td>
+    <td>90g Innenteil (glänzend) || 90g Umschlag (glänzend)</td>
+</tr>
+<tr>
+    <td>Seitenanzahl:</td>
+    <td>76</td>
+</tr>
+<tr>
+    <td>Farbigkeit:</td>
+    <td>4/4-farbig</td>
+</tr>
+<tr>
+    <td>Auflage:</td>
+    <td>50 Stk.</td>
+</tr>
+<tr>
+    <td>Preis:</td>
+    <td>177,20 €</td>
+</tr>
+</table>
+</html>
+
+Das Heft sollte hier besser 3 Wochen vorher bestellt werden, da 2 Wochen letztes Mal tatsächlich nicht gereicht haben. Auch die Stückzahl kann verringert werden, da sehr viele Hefte übrig geblieben sind.
+
+
+
+
+
+
