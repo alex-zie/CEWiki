@@ -45,11 +45,20 @@ ShareLatex ✏️
 </html>
 
 <html>
-  <div class="comment">
+  <div class="comment" style="width:300px">
     <button onclick="ausklappen(this.parentNode)"><b>Kommentar</b></button>
     <i>- Alex Z.</i>
     <div class="comment_content">
-    Dies könnte ein Kommentar sein.
+    Ich war mit dem Format Pubquiz letztes Mal nicht ganz zufrieden. Ein großer 
+    Nachteil war letztes Mal, dass die Fragen mündlich kommuniziert werden mussten. 
+    Für nächstes Mal könnte man überlegen, eine Präsentation zu erstellen. Außerdem 
+    war es immer schwierig einzuschätzen, wie viel Zeit man den Gruppen geben sollte 
+    und umgekehrt für die Teilnehmenden, wie viel Zeit sie noch übrig haben. 
+    Schließlich haben mir auch die Korrekturphasen nicht so gut gefallen, sie haben 
+    eher die Dynamik rausgenommen und ich glaube, es ist nicht so spaßig, das Blatt 
+    einer anderen Gruppe zu korrigieren und dabei aufzupassen, was die richtige 
+    Antwort ist.<br>
+    Ich würde für nächstes Mal ein traditionelles Quiz vorschlagen, bei dem die Gruppen sich auf antworten einigen müssen, diese bekanntgeben und direkt die Punkte bekommen, wenn sie richtig geantwortet haben.
     </div>
   </div>
 </html>
@@ -60,10 +69,27 @@ Schreib mich!
 
 ===== Teamspiele =====
 ==== Türme bauen ====
-Schreib mich!
+=== Beschreibung ===
+Die Teilnehmenden werden in Gruppen eingeteilt und sollen dann aus bereitgestellten Materialien möglichst hohe Türme bauen.
+
+=== Materialien ===
+  * Spaghetti
+  * Marshmallows
+Natürlich kann man sich auch andere Materialien ausdenken.
+
+=== Erfahrungen ===
+Dieses Spiel gehört zu den spaßigsten und beliebtesten Aktivitäten. Es ist teamfördernd und hat außerdem den direkten Ingenieursbezug.
 
 ==== Eier fallen lassen ====
-Schreib mich!
+Die Teilnehmenden müssen mit bereitgestellten Materialien ein Ei so gut absichern, dass man es unversehrt aus dem 4. Stock werfen kann.
+
+=== Materialien ===
+  * Plastikstrohhalme
+  * Tesafilm
+Natürlich kann man sich auch andere Materialien ausdenken.
+
+=== Erfahrungen ===
+Dieses Spiel zählt ebenfalls zu den beliebtesten Aktivitäten. Es ist teamfördernd und hat außerdem einen direkten Bezug zum Ingenieurwesen. Der über die Generationen weitergegebene Geheimtipp ist, einen Fallschirm für das Ei zu bauen. 
 
 ==== Rallye ====
 Hauptartikel →[[Rallye|Rallye]]
